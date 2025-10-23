@@ -1,1 +1,8 @@
 *.elf
+*.elf.*
+*.map
+*.o
+*.bin
+*.bin.*
+uelf
+.vscode/*
